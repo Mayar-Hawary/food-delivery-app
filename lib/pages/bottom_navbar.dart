@@ -65,7 +65,6 @@ class _BottomNavbarPageState extends State<BottomNavbarPage> {
     return Scaffold(
       appBar: appBar,
       body: SafeArea(child: _getBody(_selectedIndex)),
-      drawer: const Drawer(child: Center(child: Text('Drawer Content'))),
       bottomNavigationBar: bottomNavBar,
     );
   }
