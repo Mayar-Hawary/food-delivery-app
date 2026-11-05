@@ -4,6 +4,17 @@ A Flutter app where you browse food items, pick a size, and see the price
 update as you change the quantity. I built it as a practice project for
 working with multiple screens, reusable widgets, and responsive layouts.
 
+## Screenshots
+
+<p>
+  <img src="screenshots/home_page1.png" width="19%" />
+  <img src="screenshots/details1.png" width="19%" />
+  <img src="screenshots/favorite_page1.png" width="19%" />
+  <img src="screenshots/profile_page.png" width="19%" />
+</p>
+
+<img src="screenshots/landscape1.png" width="80%" />
+
 ## What it does
 
 - Home page with a list of food items
